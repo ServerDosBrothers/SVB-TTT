@@ -1,0 +1,10 @@
+{
+	"depends": [
+		"SVB-PlayerModelManager",
+		"SVB-Teammanager",
+		"morecolors",
+		"stocksoup",
+		"TF2Items",
+		"SM-TFEconData"
+	]
+}
